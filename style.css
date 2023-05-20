@@ -1,0 +1,125 @@
+.body{
+    background-image: url(.//images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: 150px 160px;
+}
+.carousel-item{
+    padding: 10px 20px;
+}
+.text{
+    color: gray;
+}
+.buy-now-button{
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    padding: 10px 20px;
+}
+.banner{
+    background-image: url(./images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.part{
+    margin-top: 100px;
+}
+h2{
+    margin-bottom: 40px;
+}
+h5{
+    color: #ffac28;
+}
+
+.card-img-top{
+    padding: 50px 60px;
+} 
+h5, .card-text, button{
+    text-align: center;
+}
+
+.buttonn{
+    margin-left: 95px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgb(172, 172, 172);
+}
+
+
+
+.cetagories{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.beg, .perfume, .shoes{
+    box-shadow: .5px .5px 40px rgb(238, 232, 232);
+    border-radius: 0 20px 0 20px;
+}
+
+.perfume-shoes{
+    margin-top: 70px;
+    margin-left: 15px;
+}
+
+.beeg{
+    
+margin-left: 65px;
+}
+
+.beg{
+    
+padding: 20px;
+}
+
+.bag-size{
+
+width: 80%;
+
+margin-left: 15px;
+
+margin-bottom: 15px;
+}
+
+.perfume{
+
+margin-bottom: 40px;
+
+padding: 20px;
+
+padding: 21px;
+}
+
+.perfume-size{
+    
+width: 75%;
+    
+margin-left: 15px;
+    
+margin-bottom: 20px;
+}
+
+.shoes{
+
+padding: 20px;
+}
+
+.pele{
+    margin-top: 50px;
+}
+
+.hand{
+    width: 100%;
+}
+
+h4{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    color: gray
+}

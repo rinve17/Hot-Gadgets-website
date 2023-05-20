@@ -121,5 +121,6 @@ h4{
 
 footer{
     text-align: center;
-    color: gray
+    color: gray;
+    font-size: small;
 }
